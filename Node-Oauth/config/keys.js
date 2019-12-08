@@ -2,11 +2,11 @@
 // add this to git ignore
 module.exports ={
     google :{
-    clientID: '751098838687-l1am6e6frjfbua7c0b5elhj9rgdsspp4.apps.googleusercontent.com',
-    clientSecret: 'CfBdPeLtOrBchoLU0Ad5n0Nh',
+    clientID: 'SomeclientID(not shown the real one)',
+    clientSecret: 'Also given by the api',
     },
     mongodb: {
-      dbURI :'mongodb://o-auth-test:dev101@ds039437.mlab.com:39437/o-auth'
+      dbURI :'mongodb://mlab hahhaha'
       //this uri is releted to the MLAB
     },
     session:{
